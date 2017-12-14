@@ -1,0 +1,8 @@
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\bin\Debug\Dapper.exe.config
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\bin\Debug\Dapper.exe
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\bin\Debug\Dapper.pdb
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\bin\Debug\Dapper.dll
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\bin\Debug\Dapper.xml
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\obj\Debug\Dapper.exe
+C:\Users\humberto.santos\Documents\visual studio 2013\Dapper\Dapper\Dapper\obj\Debug\Dapper.pdb
